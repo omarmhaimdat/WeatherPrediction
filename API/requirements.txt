@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+numpy
+flask
+Flask-RESTful==0.3.7
+gunicorn==19.7.1
